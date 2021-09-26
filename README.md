@@ -1,2 +1,3 @@
 # my_rpc
-rpc demo
+
+实现了一个简易的rpc框架
